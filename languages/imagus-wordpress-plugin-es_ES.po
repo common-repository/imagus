@@ -1,0 +1,86 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: imagus\n"
+"POT-Creation-Date: 2020-05-31 16:12+0200\n"
+"PO-Revision-Date: 2020-05-31 16:13+0200\n"
+"Last-Translator: \n"
+"Language-Team: Katodia\n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3.1\n"
+"X-Poedit-Basepath: ../admin\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: _e;_;__\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: class-imagus-admin.php:107
+msgid "Optimized!"
+msgstr "¡Optimizado!"
+
+#: class-imagus-admin.php:108 class-imagus-admin.php:151
+msgid "0 bytes saved. Choose another quality ratio (lower)"
+msgstr "0 bytes ahorrados. Elija otro porcentaje de calidad (más bajo)"
+
+#: class-imagus-admin.php:109
+msgid "Recover backup"
+msgstr "Recuperar original"
+
+#: class-imagus-admin.php:146
+msgid "Imagus compression!"
+msgstr "¡Haz tu optimagia!"
+
+#: class-imagus-admin.php:156
+msgid "Already optimized"
+msgstr "Ya optimizado"
+
+#: class-imagus-admin.php:169
+msgid "Imagus compression"
+msgstr "Haz tu optimagia"
+
+#: partials/admin-settings.php:5
+msgid "Imagus settings"
+msgstr "Configuración de imagus"
+
+#: partials/admin-settings.php:13 partials/modal-settings.php:5
+msgid "Quality percentage"
+msgstr "Porcentaje de calidad"
+
+#: partials/admin-settings.php:22
+msgid "Automatic compression"
+msgstr "Compresión automática"
+
+#: partials/admin-settings.php:34
+msgid ""
+"Cannot create images backup folder. Check permissions in uploads folder path."
+msgstr ""
+"No se ha podido crear una copia de la imagen. Revise los permisos en la "
+"carpeta uploads."
+
+#: partials/admin-settings.php:39 partials/modal-settings.php:15
+msgid "Leave original copies in media folder"
+msgstr "Dejar una copia de la imagen original en la carpeta multimedia"
+
+#: partials/admin-settings.php:49
+msgid "Enable modal customized options window"
+msgstr "Habilitar ventana de opciones personalizadas modales"
+
+#: partials/admin-settings.php:50
+msgid ""
+"This modal allows to set custom options when you do a single or raw "
+"compression in the media gallery."
+msgstr ""
+"Este modal permite establecer opciones personalizadas cuando se realiza una "
+"compresión única o sin procesar en la galería de medios."
+
+#: partials/admin-settings.php:62
+msgid "Save changes"
+msgstr "Guardar cambios"
+
+#: partials/modal-settings.php:29
+msgid "Optimize"
+msgstr "Optimizar"
+
+#~ msgid "Do a imagus roll!"
+#~ msgstr "¡Haz tu magia!"

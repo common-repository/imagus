@@ -1,0 +1,52 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+
+.imagus-spinner {
+  float: none;
+  width: auto;
+  height: auto;
+  padding: 10px 0 10px 50px;
+  background-position: 20px 0;
+}
+
+.imagus-display-none {
+  display: none!important;
+}
+
+.imagus-label {
+  color: white;
+  height: 20px;
+  padding: .15em 4px;
+  font-size: 12px;
+  font-weight: 600;
+  line-height: 15px;
+  border-radius: 2px;
+  box-shadow: inset 0 -1px 0 rgba(27,31,35,.12);
+}
+
+.imagus-roll-icon {
+  width: 20px;
+  margin-left: 5px;
+  top: 3px;
+  position: relative;
+}
+
+.imagus-label.success {background-color: #4CAF50; }
+.imagus-label.info {background-color: #2196F3; }
+.imagus-label.warning {background-color: #ff9800;}
+.imagus-label.danger {background-color: #f44336;}
+.imagus-label.other {background-color: #e7e7e7; color: black;}
+
+.imagus-icon-admin {
+  width:50px;
+  position: relative;
+  top: 5px;
+  margin-right: 10px;
+  filter: invert(97%) sepia(81%) saturate(2878%) hue-rotate(346deg) brightness(104%) contrast(0%);
+}
+
+.imagus-bytes-saved, imagus-percentage-saved {
+  margin:2px 0 2px 0;
+}
